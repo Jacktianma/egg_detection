@@ -1,0 +1,407 @@
+2025-07-09 15:26:44,876 - MainWindow - I - UI layout created successfully
+2025-07-09 15:26:44,997 - RKNNModel - I - Loading RKNN model
+2025-07-09 15:26:45,090 - RKNNModel - I - RKNN model initialized successfully
+2025-07-09 15:26:45,124 - FreshnessModel - I - Freshness ONNX model loaded successfully
+2025-07-09 15:26:45,268 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:26:46,135 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:26:46,136 - SerialComm - I - Serial port opened successfully
+2025-07-09 15:26:47,787 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:47,809 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:47,900 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:47,922 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,018 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,043 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,126 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,149 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,232 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,254 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,339 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,377 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,463 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,499 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,586 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,608 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,693 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,730 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,817 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,851 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,938 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:48,958 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,045 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,078 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,168 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,189 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,270 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,309 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,393 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,414 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,499 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,530 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,616 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,643 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,729 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,770 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,861 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:49,898 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,039 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,066 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,281 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,320 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,394 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,414 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,642 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,681 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,886 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:50,921 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,010 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,049 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,134 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,168 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,256 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,280 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,365 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,404 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,490 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,530 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,617 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,639 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,714 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,740 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,844 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,881 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,966 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:51,996 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,204 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,243 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,329 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,363 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,568 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,605 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,694 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:52,713 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,166 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,202 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,289 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,326 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,413 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,432 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,525 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,562 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,648 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,666 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,765 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,784 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,882 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:53,921 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,126 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,164 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,367 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,404 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,491 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,509 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,610 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,647 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,732 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,751 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,847 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,882 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:54,967 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,004 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,329 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,369 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,457 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,492 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,582 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,609 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,684 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,704 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,927 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:55,956 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,052 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,071 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,289 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,317 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,394 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,416 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,533 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,552 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,648 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,672 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,767 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,785 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,886 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:56,915 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,018 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,055 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,134 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,154 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,254 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,273 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,364 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,383 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,485 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,510 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,610 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,629 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,726 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,745 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,886 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:57,906 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,092 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,130 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,203 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,222 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,363 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,402 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,513 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,542 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,676 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,716 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,829 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,848 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:58,993 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,012 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,154 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,192 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,314 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,333 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,466 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,503 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,632 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,652 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,786 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,824 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,951 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:26:59,974 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,099 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,134 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,259 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,301 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,415 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,434 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,578 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,616 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,737 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,756 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,894 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:00,932 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,047 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,081 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,211 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,234 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,364 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,402 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,525 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,567 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,687 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,722 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,842 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:01,862 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,000 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,036 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,158 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,195 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,319 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,354 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,472 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,503 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,624 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,698 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,772 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,792 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,946 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:02,988 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,097 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,125 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,264 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,292 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,423 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,459 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,582 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,621 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,740 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,778 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,898 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:03,936 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,055 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,082 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,215 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,252 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,356 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,392 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,529 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,558 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,685 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,721 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,842 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:04,868 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,002 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,029 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,163 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,207 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,325 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,352 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,468 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,505 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,628 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,652 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,805 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,849 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,956 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:05,985 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,110 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,146 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,262 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,292 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,431 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,469 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,589 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,614 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,747 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,776 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,901 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:06,929 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,058 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,097 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,218 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,255 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,376 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,415 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,537 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,579 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,698 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,724 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,853 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:07,889 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:08,009 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:08,047 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:08,169 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:08,206 - MainWindow - E - 更新图像错误: name 'cv2' is not defined
+2025-07-09 15:27:08,362 - SerialComm - I - Serial port closed
+2025-07-09 15:28:30,300 - MainWindow - I - UI layout created successfully
+2025-07-09 15:28:30,392 - RKNNModel - I - Loading RKNN model
+2025-07-09 15:28:30,458 - RKNNModel - I - RKNN model initialized successfully
+2025-07-09 15:28:30,463 - FreshnessModel - I - Freshness ONNX model loaded successfully
+2025-07-09 15:28:30,598 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:28:31,464 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:28:31,465 - SerialComm - I - Serial port opened successfully
+2025-07-09 15:29:10,525 - SerialComm - I - Sent: Start
+2025-07-09 15:29:10,734 - EggDetectionApp - I - 接收到串口消息: openA
+2025-07-09 15:29:10,735 - SerialComm - I - Sent: Start
+2025-07-09 15:29:10,746 - EggDetectionApp - I - 接收到 openA 指令，开始检测...
+2025-07-09 15:29:10,757 - SerialComm - I - Sent: AN
+2025-07-09 15:29:10,788 - MainWindow - I - 添加记录: 序号=1, 外壳=破损, 新鲜度=无, 时间=2025-07-09 15:29:10
+2025-07-09 15:29:10,789 - SerialComm - I - Sent: Start
+2025-07-09 15:29:10,964 - EggDetectionApp - I - 接收到串口消息: case1-1
+2025-07-09 15:29:10,964 - SerialComm - I - Sent: Start
+2025-07-09 15:29:10,993 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:29:10,994 - SerialComm - I - Sent: Start
+2025-07-09 15:29:11,006 - EggDetectionApp - I - 接收到串口消息: case2-2
+2025-07-09 15:29:11,009 - SerialComm - I - Sent: Start
+2025-07-09 15:29:16,929 - EggDetectionApp - E - 逐字显示分析结果失败：name 'tk' is not defined
+2025-07-09 15:29:29,532 - SerialComm - I - Serial port closed
+2025-07-09 15:31:27,128 - MainWindow - I - UI layout created successfully
+2025-07-09 15:31:27,214 - RKNNModel - I - Loading RKNN model
+2025-07-09 15:31:27,280 - RKNNModel - I - RKNN model initialized successfully
+2025-07-09 15:31:27,284 - FreshnessModel - I - Freshness ONNX model loaded successfully
+2025-07-09 15:31:27,421 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:31:28,287 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:31:28,288 - SerialComm - I - Serial port opened successfully
+2025-07-09 15:31:33,918 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,123 - EggDetectionApp - I - 接收到串口消息: openA
+2025-07-09 15:31:34,124 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,135 - EggDetectionApp - I - 接收到 openA 指令，开始检测...
+2025-07-09 15:31:34,144 - SerialComm - I - Sent: AY
+2025-07-09 15:31:34,349 - EggDetectionApp - I - 接收到串口消息: case1-1
+2025-07-09 15:31:34,350 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,392 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,392 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,434 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,434 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,486 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,488 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,531 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,532 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,587 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,588 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,629 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,630 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,682 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,683 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,725 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,725 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,777 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,778 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,819 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,821 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,874 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,874 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,915 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,915 - SerialComm - I - Sent: Start
+2025-07-09 15:31:34,966 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:34,967 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,010 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,011 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,063 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,063 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,115 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,116 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,158 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,158 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,210 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,210 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,252 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,252 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,304 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,304 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,356 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,357 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,399 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,400 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,442 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,443 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,495 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,495 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,538 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,538 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,590 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,590 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,642 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,643 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,684 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,685 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,738 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,738 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,780 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,781 - SerialComm - I - Sent: Start
+2025-07-09 15:31:35,833 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:35,834 - SerialComm - I - Sent: Start
+2025-07-09 15:31:36,310 - Camera - E - Failed to read frame
+2025-07-09 15:31:36,364 - SerialComm - I - Serial port closed
+2025-07-09 15:31:43,397 - MainWindow - I - UI layout created successfully
+2025-07-09 15:31:43,484 - RKNNModel - I - Loading RKNN model
+2025-07-09 15:31:43,551 - RKNNModel - I - RKNN model initialized successfully
+2025-07-09 15:31:43,556 - FreshnessModel - I - Freshness ONNX model loaded successfully
+2025-07-09 15:31:43,690 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:31:44,556 - Camera - I - Camera configured: 480x320@30fps
+2025-07-09 15:31:44,558 - SerialComm - I - Serial port opened successfully
+2025-07-09 15:31:55,753 - EggDetectionApp - I - 接收到串口消息: openA
+2025-07-09 15:31:55,754 - SerialComm - I - Sent: Start
+2025-07-09 15:31:57,402 - SerialComm - I - Sent: Start
+2025-07-09 15:31:59,414 - EggDetectionApp - I - 接收到串口消息: case1-2
+2025-07-09 15:31:59,415 - SerialComm - I - Sent: Start
+2025-07-09 15:31:59,649 - EggDetectionApp - I - 接收到串口消息: openA
+2025-07-09 15:31:59,650 - SerialComm - I - Sent: Start
+2025-07-09 15:31:59,661 - EggDetectionApp - I - 接收到 openA 指令，开始检测...
+2025-07-09 15:31:59,687 - SerialComm - I - Sent: AN
+2025-07-09 15:31:59,708 - MainWindow - I - 添加记录: 序号=1, 外壳=破损, 新鲜度=无, 时间=2025-07-09 15:31:59
+2025-07-09 15:31:59,710 - SerialComm - I - Sent: Start
+2025-07-09 15:31:59,880 - EggDetectionApp - I - 接收到串口消息: case1-1
+2025-07-09 15:31:59,882 - SerialComm - I - Sent: Start
+2025-07-09 15:31:59,917 - EggDetectionApp - I - 接收到串口消息: case2
+2025-07-09 15:31:59,929 - SerialComm - I - Sent: Start
+2025-07-09 15:31:59,931 - EggDetectionApp - I - 接收到串口消息: case2-2
+2025-07-09 15:31:59,940 - SerialComm - I - Sent: Start
+2025-07-09 15:32:07,752 - EggDetectionApp - I - 开始逐字显示分析结果：鸡蛋 1
+2025-07-09 15:32:13,191 - Camera - E - Failed to read frame
+2025-07-09 15:32:13,249 - SerialComm - I - Serial port closed

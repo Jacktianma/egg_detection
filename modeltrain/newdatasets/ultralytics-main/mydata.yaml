@@ -1,0 +1,9 @@
+train: Output/images/train
+val: Output/images/val
+test: Output/images/test
+
+nc: 2
+
+names:
+  0: egg
+  1: break

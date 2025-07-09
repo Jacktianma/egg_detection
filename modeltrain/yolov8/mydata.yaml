@@ -1,0 +1,9 @@
+train: D:/Acompetition/2025嵌赛/model/新数据集/Output/images/train
+val: D:/Acompetition/2025嵌赛/model/新数据集/Output/images/val
+test: D:/Acompetition/2025嵌赛/model/新数据集/Output/images/test
+
+nc: 2
+
+names:
+  0: egg
+  1: breal

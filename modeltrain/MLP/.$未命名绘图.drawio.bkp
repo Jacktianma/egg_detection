@@ -1,0 +1,159 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1062" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="vTdVH-laNegziUWa4oe7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="摄像头视频流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="149.96" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="vTdVH-laNegziUWa4oe7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;YOLOv8外壳检测模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="239.96" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-1" target="vTdVH-laNegziUWa4oe7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-6" value="破损" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vTdVH-laNegziUWa4oe7-5">
+          <mxGeometry x="-0.2676" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-1" target="vTdVH-laNegziUWa4oe7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="369.96" />
+              <mxPoint x="220" y="59.96" />
+              <mxPoint x="450" y="59.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-66" value="未破损" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vTdVH-laNegziUWa4oe7-65">
+          <mxGeometry x="-0.3611" y="-1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;判断鸡蛋是否破损&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="47.5" y="309.96" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-4" target="vTdVH-laNegziUWa4oe7-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="510" />
+              <mxPoint x="30" y="510" />
+              <mxPoint x="30" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;破损蛋剔除模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="57.5" y="459.96" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-9" target="vTdVH-laNegziUWa4oe7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-9" target="vTdVH-laNegziUWa4oe7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;第二阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="79.96000000000001" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-15" target="vTdVH-laNegziUWa4oe7-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="239.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-15" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-style: revert; line-height: 28px; overflow-anchor: auto; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-style: revert; line-height: 28px; overflow-anchor: auto;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&amp;nbsp;620nm 红外光源&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="149.96" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-16" target="vTdVH-laNegziUWa4oe7-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="587" y="239.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-16" value="&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;800nm 红外光源&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="527" y="149.96" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-17" target="vTdVH-laNegziUWa4oe7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-17" value="&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;700nm 红外光源&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="149.96" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-20" target="vTdVH-laNegziUWa4oe7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;OPT101 &lt;/span&gt;高灵敏度光电探测器阵列&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt; + OPA275GSZ &lt;/span&gt;精密信号调理模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="244.25" y="299.96" width="411.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-26" target="vTdVH-laNegziUWa4oe7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-26" value="&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;鸡蛋&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="219.96" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="439.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-38" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;多层感知机鸡蛋新鲜度检测模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="347" y="369.96" width="206" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-54" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;第一阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="79.96000000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-9" target="vTdVH-laNegziUWa4oe7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-59" target="vTdVH-laNegziUWa4oe7-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="460" />
+              <mxPoint x="670" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-59" value="&lt;font face=&quot;Calibri, sans-serif&quot;&gt;输出鸡蛋新鲜度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388.5" y="439.96" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-60" target="vTdVH-laNegziUWa4oe7-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;三轴线性执行平台&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;电动夹持末端执行器&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="169.96" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-62" target="vTdVH-laNegziUWa4oe7-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="19.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="295" />
+              <mxPoint x="840" y="30" />
+              <mxPoint x="110" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-62" value="&lt;font face=&quot;Times New Roman&quot;&gt;根据鸡蛋新鲜度分类&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="270.00000000000006" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTdVH-laNegziUWa4oe7-68" target="vTdVH-laNegziUWa4oe7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vTdVH-laNegziUWa4oe7-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;第三阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="79.96" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,25 @@
+# config/config.yaml
+models:
+  rknn:
+    path: "./break.rknn"
+    input_size: [320, 320]
+  freshness:
+    path: "./freshness_model.onnx"
+serial:
+  port: "/dev/ttyS9"
+  baudrate: 115200
+  timeout: 1
+cameras:
+  front:
+    device: "/dev/video21"
+    width: 480
+    height: 320
+    fps: 30
+  back:
+    device: "/dev/video23"
+    width: 480
+    height: 320
+    fps: 30
+deepseek:
+  api_key: "sk-05e8658276ed43d6b678cd1fc72b04c7"
+  base_url: "https://api.deepseek.com"
